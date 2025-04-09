@@ -20,4 +20,4 @@ streamlit run calculadora.py
 ```
 
 ---
-🎓 Desarrollado por Carlos Hernández — estudiante de Ingeniería en Ciberseguridad, apasionado por los datos y la automatización.
+🎓 Desarrollado por Carlos  — estudiante de Ingeniería en Ciberseguridad, apasionado por los datos y la automatización.
