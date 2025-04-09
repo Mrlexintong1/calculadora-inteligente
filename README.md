@@ -3,7 +3,7 @@
 
 **Autor**: Carlos Tlali Rosales  
 **Perfil**: Estudiante de Ingeniería en Ciberseguridad | Jr. Data Scientist | Jr. Back-End Developer | Apasionado por la Tecnología, la Seguridad y el Análisis de Datos  
-**Contacto**: [LinkedIn](https://www.linkedin.com/in/tu-link-aquí)
+**Contacto**: [LinkedIn](https://www.linkedin.com/in/carlostlali/)
 
 ---
 
