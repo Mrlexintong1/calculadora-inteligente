@@ -43,7 +43,7 @@ Este proyecto es parte de un portafolio técnico que **demuestra habilidades cla
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/calculadora-inteligente.git
+git clone https://github.com/Mrlexintong1/calculadora-inteligente.git
 cd calculadora-inteligente
 ```
 
